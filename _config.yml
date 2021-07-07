@@ -1,0 +1,89 @@
+### Site Settings ###
+title               : deathflash
+description         : >-
+                      I build boxes & hunt bugs.
+baseurl             : ""
+repository          : deathflash1411/deathflash1411.github.io
+remote_theme        : YoussefRaafatNasry/portfolYOU
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Salman Asad
+#  image             : https://i.imgur.com/q3XBs5C.jpg
+  image             : https://i.imgur.com/diHpv6r.png (Salman)
+  email             : deathflash1410@gmail.com
+  facebook          : deathflash1411
+  github            : deathflash1411
+  instagram         : deathflash1411
+  linkedin          : deathflash1411
+  twitter           : deathflash1411
+# behance           : your_username
+# dribbble          : your_username
+# gitlab            : your_username
+# kaggle            : your_username
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+  keybase           : deathflash1411
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+#disqus:
+#  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true
+  google:
+    tracking_id: UA-149846731-1
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

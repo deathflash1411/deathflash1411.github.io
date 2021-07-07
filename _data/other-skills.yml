@@ -1,0 +1,11 @@
+- name: Kali Linux
+  percentage: 90
+  color: info
+
+- name: Metasploit Framework
+  percentage: 90
+  color: danger
+
+- name: Burp Suite
+  percentage: 70
+  color: 

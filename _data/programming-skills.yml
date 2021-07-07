@@ -1,0 +1,11 @@
+- name: Bash
+  percentage: 85
+  color: 
+
+- name: Python
+  percentage: 70
+  color: success
+
+- name: Powershell
+  percentage: 50  
+  color: info
