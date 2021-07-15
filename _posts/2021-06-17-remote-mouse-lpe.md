@@ -1,5 +1,5 @@
 ---
-title: Remote Mouse - Local Privilege Escalation
+title: Exploiting CVE-2021-35448
 tags: [Research]
 style: fill
 color: danger

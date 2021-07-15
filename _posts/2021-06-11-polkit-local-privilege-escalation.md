@@ -1,6 +1,6 @@
 ---
 title: Exploiting CVE-2021-3560
-tags: [Research]
+tags: [Research, Exploit-Development]
 style: fill
 color: success
 comments: true
