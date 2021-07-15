@@ -1,7 +1,7 @@
 ---
 title: Exploiting CVE-2021-35448
 tags: [Research]
-style: fill
+style: outline
 color: danger
 comments: true
 description: Local Privilege Escalation via Remote Mouse GUI 3.008

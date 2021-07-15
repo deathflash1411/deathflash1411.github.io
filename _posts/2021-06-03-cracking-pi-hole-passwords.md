@@ -1,7 +1,7 @@
 ---
 title: Cracking pi-hole passwords
 tags: [Research]
-style: fill
+style: outline
 color: primary
 comments: true
 description: How to crack pi-hole password hashes

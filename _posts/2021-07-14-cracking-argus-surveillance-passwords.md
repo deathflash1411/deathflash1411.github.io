@@ -1,7 +1,7 @@
 ---
 title: Cracking Argus Surveillance Passwords
 tags: [Research, Exploit-Development]
-style: fill
+style: outline
 color: dark
 comments: true
 description: How to crack argus surveillance password hases

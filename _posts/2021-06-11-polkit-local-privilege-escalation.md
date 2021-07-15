@@ -1,7 +1,7 @@
 ---
 title: Exploiting CVE-2021-3560
 tags: [Research, Exploit-Development]
-style: fill
+style: outline
 color: success
 comments: true
 description: Local privilege escalation via polkit
